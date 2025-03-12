@@ -20,6 +20,6 @@ A simple web application that checks whether a given word or phrase is a palindr
 ## How to View
 1. Clone this repository:
    ```bash
-   git clone git@github.com:tylerhuynh287/freeCodeCampProject6.git
+   git clone https://github.com/tylerhuynh287/Palindrome-Checker-fCC.git
 
 To be updated.
